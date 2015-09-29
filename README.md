@@ -1,0 +1,1 @@
+# MSSQL-Coding-Guidelines
