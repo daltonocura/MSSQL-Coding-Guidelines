@@ -7,3 +7,8 @@
     BookingItem
     GetBooking
 ```
+
+TESTE
+```SQL
+    SELECT BookingItem FROM InterepEsb..BookingItem
+```
